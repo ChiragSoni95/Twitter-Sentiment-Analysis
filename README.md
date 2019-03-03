@@ -12,11 +12,11 @@
 >The tweets used here are pertaining to two US presidential candidates namely: Barack Obama and Mitt Romney. By classifying the tweets into the mentioned classes we would be capable of predicting the opinion of the public and get a sense of the outcome of the election.
 
 **Classification Methods:**
-A. MultinomialNaiveBayesClassifier
-B. Support Vector Machines(SVM) with RBF/Gaussian Kernel
-C. Stochastic Gradient Descent(SGD)
-D. LogisticRegression
-E. Ensemble Methods:
+1. MultinomialNaiveBayesClassifier
+2. Support Vector Machines(SVM) with RBF/Gaussian Kernel
+3. Stochastic Gradient Descent(SGD)
+4. LogisticRegression
+5. Ensemble Methods:
 - Random Forest
 - Bagging
 - Boosting(XG-Boost)
