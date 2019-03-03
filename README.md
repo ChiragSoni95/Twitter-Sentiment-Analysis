@@ -17,8 +17,8 @@
 3. Stochastic Gradient Descent(SGD)
 4. LogisticRegression
 5. Ensemble Methods:
-- Random Forest
-- Bagging
-- Boosting(XG-Boost)
-- Voting using SVM with Gaussian kernel, Logistic Regression, Random Forest and Stochastic Gradient Descent.
-- Neural Network: Convolutional Neural Network
+  - Random Forest
+  - Bagging
+  - Boosting(XG-Boost)
+  - Voting using SVM with Gaussian kernel, Logistic Regression, Random Forest and Stochastic Gradient Descent.
+  - Neural Network: Convolutional Neural Network
