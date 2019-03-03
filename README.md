@@ -24,7 +24,7 @@
       - Neural Network: Convolutional Neural Network
 
 **Evaluation**
->ExperimentalResults
+- ExperimentalResults
 1. Obama:
 ![Result Table for Obama](https://github.com/ChiragSoni95/Twitter_Sentiment_Analysis/blob/master/obama.png)
 
@@ -50,4 +50,3 @@ tensorflow/
 9. https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278
 10. https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6
 11. https://nlp.stanford.edu/IR-book/html/htmledition/text-classification-and-naive-bayes-
-1.html
