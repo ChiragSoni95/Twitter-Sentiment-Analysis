@@ -1,5 +1,7 @@
 # Twitter-Sentiment-Analysis
-*Repository include a detailed report of the pre-processing steps, models used and the experimental results.
+
+*Repository include a detailed report of the pre-processing steps, models used and the experimental results.*
+
 **Problem Statement:** 
 
 >Given a collection of tweets, the program classify them into two classes namely:
@@ -38,9 +40,9 @@
 Several models have been built and then trained and verified using k-fold cross validation (k=10). Stochastic Gradient descent, Random Forest, SVM and logistic regression gave reasonable average f-scores but an ensemble voting classifier of the above mentioned classifiers in the ratio of 1:1:1:2 performed slightly better than the rest. The corresponding classes of the test data have been determined using ensemble voting classifier.
 
 **Author(s):**
-> Chirag Soni
+> 1. Chirag Soni
 
-> Muttavarapu Sreeharsha
+> 2. Muttavarapu Sreeharsha
 
 **References**
 1. http://nltk.org/ - for documentation about NLTK libraries
