@@ -37,6 +37,7 @@ Several models have been built and then trained and verified using k-fold cross 
 
 **Author(s):**
 > Chirag Soni
+
 > Muttavarapu Sreeharsha
 
 **References**
