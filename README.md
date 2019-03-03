@@ -1,6 +1,6 @@
-# Twitter-Sentiment-Analysis
+# Twitter_Sentiment_Analysis
 
-*Repository include a detailed report of the pre-processing steps, models used and the experimental results.*
+*Repository includes a detailed report of the pre-processing steps, models used and the experimental results.*
 
 **Problem Statement:** 
 
