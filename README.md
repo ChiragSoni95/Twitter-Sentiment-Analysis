@@ -22,3 +22,21 @@
       - Boosting(XG-Boost)
       - Voting using SVM with Gaussian kernel, Logistic Regression, Random Forest and Stochastic Gradient Descent.
       - Neural Network: Convolutional Neural Network
+
+**References**
+1. http://nltk.org/ - for documentation about NLTK libraries
+2. Bing Liu. “Sentiment Analysis and Opinion Mining” , May 2012. eBook: ISBN
+      9781608458851
+3. http://streamhacker.com/2010/10/25/training-binary-text-classifiers-nltk-trainer/ - for
+info on text classification methods
+4. http://www.ravikiranj.net/drupal/201205/code/machine-learning/how-build-twitter-
+sentiment-analyzer - for information on tweet classification
+5. http://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+6. http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-
+tensorflow/
+7. https://keras.io/
+8. https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html
+9. https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278
+10. https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6
+11. https://nlp.stanford.edu/IR-book/html/htmledition/text-classification-and-naive-bayes-
+1.html
