@@ -25,8 +25,14 @@
 
 **Evaluation**
 >ExperimentalResults
-1. Obama
-![Result Table for Obama](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+1. Obama:
+![Result Table for Obama](https://github.com/ChiragSoni95/Twitter_Sentiment_Analysis/blob/master/obama.png)
+
+2. Romney:
+![Result Table for Romney](https://github.com/ChiragSoni95/Twitter_Sentiment_Analysis/blob/master/romney.png)
+
+**Conclusion**
+Several models have been built and then trained and verified using k-fold cross validation (k=10). Stochastic Gradient descent, Random Forest, SVM and logistic regression gave reasonable average f-scores but an ensemble voting classifier of the above mentioned classifiers in the ratio of 1:1:1:2 performed slightly better than the rest. The corresponding classes of the test data have been determined using ensemble voting classifier.
 
 **References**
 1. http://nltk.org/ - for documentation about NLTK libraries
