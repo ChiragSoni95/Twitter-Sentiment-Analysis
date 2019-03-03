@@ -1,13 +1,13 @@
 # Twitter-Sentiment-Analysis
 **Problem Statement:** 
 
->Given a collection of tweets, the program classify them into four classes namely:
+>Given a collection of tweets, the program classify them into two classes namely:
 - Positive
 - Negative
-- Neutral
-- Mixed
+- Neutral (avoided)
+- Mixed (avoided)    
 
-**Dataset Information:**
+**Dataset Description:**
 
 >The tweets used here are pertaining to two US presidential candidates namely: Barack Obama and Mitt Romney. By classifying the tweets into the mentioned classes we would be capable of predicting the opinion of the public and get a sense of the outcome of the election.
 
@@ -22,6 +22,11 @@
       - Boosting(XG-Boost)
       - Voting using SVM with Gaussian kernel, Logistic Regression, Random Forest and Stochastic Gradient Descent.
       - Neural Network: Convolutional Neural Network
+
+**Evaluation**
+>ExperimentalResults
+1. Obama
+![Result Table for Obama](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 **References**
 1. http://nltk.org/ - for documentation about NLTK libraries
